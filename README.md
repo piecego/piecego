@@ -1,5 +1,3 @@
-### about me
-
 a web frontend developer.
 
 skill: `typescript+reactjs/nestjs`
