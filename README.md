@@ -1,5 +1,7 @@
-a web frontend developer.
+A web frontend developer.
 
-skill: `typescript+reactjs/nestjs`
+Skill: `Typescript + Reactjs`
 
-blog: [https://piecego.com](https://piecego.com)
+Learn: `RustLang`
+
+Blog: [https://piecego.com](https://piecego.com)
