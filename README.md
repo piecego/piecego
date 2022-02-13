@@ -1,7 +1,7 @@
 A web frontend developer.
 
-Skill: `Typescript + Reactjs`
+Ready: `Typescript + Reactjs`
 
-Learn: `RustLang`
+Waiting: `RustLang`
 
-Blog: [https://piecego.com](https://piecego.com)
+Homepage: [https://piecego.com](https://piecego.com)
