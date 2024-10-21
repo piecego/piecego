@@ -1,12 +1,39 @@
-## Hi~ 👋
+### Hi~, I'm [tonitrnel](https://blog.ptdg.dev) 👋
 
 Welcome to my github profile
 
 I'm a front-end coder building web pages with React, Solidjs, and Vue!
 
-I love code, but ? (o-ωｑ)).oO
+(o-ωｑ)).oO
 
-### Favorite Languages
+## Skills
 
-![Rust](https://img.shields.io/badge/-rust-ec6323?style=flat-square&logo=rust)
-![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+### OS
+
+![windows](https://img.shields.io/badge/-Windows11-0173d4?style=for-the-badge&logo=materialdesignicons&logoColor=white)
+![debian](https://img.shields.io/badge/-debian-d0074e?style=for-the-badge&logo=debian&logoColor=white)
+
+### Programming Languages
+
+my favorite programming languages:
+
+![Rust](https://img.shields.io/badge/-rust-ec6323?style=for-the-badge&logo=rust)
+![TypeScript](https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript)
+
+used programming languages:
+
+![python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![c](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![html](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+
+## Frameworks & Runtimes
+
+![nodejs](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
+
+![reactjs](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![vuejs](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white)
+![solidjs](https://img.shields.io/badge/-Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)
+
+![axumrs](https://img.shields.io/badge/-Axum-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTA4Ij48ZyBmaWxsPSJ3aGl0ZSI+PHBvbHlnb24gdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzcuMDAwMDAwLCA2Ny4wMDAwMDApIHJvdGF0ZSgtMzAwLjAwMDAwMCkgdHJhbnNsYXRlKC0zNy4wMDAwMDAsIC02Ny4wMDAwMDApICIgcG9pbnRzPSIzNSA3NC4wNTE2MDc4IDM1IDc2IDM5IDc2IDM5IDc0LjA1MTYwNzggMzkgNTkuOTQ4MzkyMiAzOSA1OCAzNSA1OCAzNSA1OS45NDgzOTIyIi8+PHBvbHlnb24gdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODMuMDAwMDAwLCA2Ny4wMDAwMDApIHJvdGF0ZSgtNjAuMDAwMDAwKSB0cmFuc2xhdGUoLTgzLjAwMDAwMCwgLTY3LjAwMDAwMCkgIiBwb2ludHM9IjgxIDc0LjA1MTYwNzggODEgNzYgODUgNzYgODUgNzQuMDUxNjA3OCA4NSA1OS45NDgzOTIyIDg1IDU4IDgxIDU4IDgxIDU5Ljk0ODM5MjIiLz48cGF0aCBkPSJNODAsNTQgQzgwLDQyLjk1NDMwNSA3MS4wNDU2OTUsMzQgNjAsMzQgQzQ4Ljk1NDMwNSwzNCA0MCw0Mi45NTQzMDUgNDAsNTQgQzQwLDY1LjA0NTY5NSA0OC45NTQzMDUsNzQgNjAsNzQgQzcxLjA0NTY5NSw3NCA4MCw2NS4wNDU2OTUgODAsNTQgWiBNNDQuMjMyODA0Miw1NCBDNDQuMjMyODA0Miw0NS4yOTIwMTgyIDUxLjI5MjAxODIsMzguMjMyODA0MiA2MCwzOC4yMzI4MDQyIEM2OC43MDc5ODE4LDM4LjIzMjgwNDIgNzUuNzY3MTk1OCw0NS4yOTIwMTgyIDc1Ljc2NzE5NTgsNTQgQzc1Ljc2NzE5NTgsNjIuNzA3OTgxOCA2OC43MDc5ODE4LDY5Ljc2NzE5NTggNjAsNjkuNzY3MTk1OCBDNTEuMjkyMDE4Miw2OS43NjcxOTU4IDQ0LjIzMjgwNDIsNjIuNzA3OTgxOCA0NC4yMzI4MDQyLDU0IFoiLz48Y2lyY2xlIGN4PSIyNCIgY3k9Ijc1IiByPSIzIi8+PGNpcmNsZSBjeD0iNjAiIGN5PSI5NiIgcj0iMyIvPjxjaXJjbGUgY3g9IjYwIiBjeT0iMTIiIHI9IjMiLz48Y2lyY2xlIGN4PSI5NiIgY3k9IjMzIiByPSIzIi8+PGNpcmNsZSBjeD0iMjQiIGN5PSIzMyIgcj0iMyIvPjxjaXJjbGUgY3g9Ijk2IiBjeT0iNzUiIHI9IjMiLz48ZWxsaXBzZSBjeD0iNjAiIGN5PSI1NCIgcng9IjMiIHJ5PSIzIi8+PHBvbHlnb24gcG9pbnRzPSIyIDUyIC00LjQyMzEyODUzZS0xMyA1MiAtNC41NDc0NzM1MWUtMTMgNTYgMiA1NiA0MCA1NiA0MiA1NiA0MiA1MiA0MCA1MiIvPjxwb2x5Z29uIHBvaW50cz0iODAgNTIgNzggNTIgNzggNTYgODAgNTYgMTE4IDU2IDEyMCA1NiAxMjAgNTIgMTE4IDUyIi8+PHBvbHlnb24gcG9pbnRzPSI3Mi44Mjk5MTY3IDcwLjM4ODU3MjUgNzEuODIzMTcwOCA2OC42NjA0MzQgNjguMzY2ODkzNyA3MC42NzM5MjU4IDY5LjM3MzYzOTYgNzIuNDAyMDY0MyA4OC41MDE4MTE2IDEwNS4yMzY2OTYgODkuNTA4NTU3NSAxMDYuOTY0ODM0IDkyLjk2NDgzNDUgMTA0Ljk1MTM0MyA5MS45NTgwODg2IDEwMy4yMjMyMDQiLz48cG9seWdvbiBwb2ludHM9IjMyLjU4MTM2ODQgMi4xNDAwMjQyMyAzMS41NzQ2MjI1IDAuNDExODg1NzIyIDI4LjExODM0NTUgMi40MjUzNzc1MSAyOS4xMjUwOTE0IDQuMTUzNTE2MDIgNDguMjUzMjYzMyAzNi45ODgxNDc3IDQ5LjI2MDAwOTIgMzguNzE2Mjg2MiA1Mi43MTYyODYyIDM2LjcwMjc5NDQgNTEuNzA5NTQwMyAzNC45NzQ2NTU5Ii8+PHBvbHlnb24gcG9pbnRzPSI5MC43MDk1NDAzIDQuMTUzNTE2MDIgOTEuNzE2Mjg2MiAyLjQyNTM3NzUxIDg4LjI2MDAwOTIgMC40MTE4ODU3MjIgODcuMjUzMjYzMyAyLjE0MDAyNDIzIDY4LjEyNTA5MTQgMzQuOTc0NjU1OSA2Ny4xMTgzNDU1IDM2LjcwMjc5NDQgNzAuNTc0NjIyNSAzOC43MTYyODYyIDcxLjU4MTM2ODQgMzYuOTg4MTQ3NyIvPjxwb2x5Z29uIHBvaW50cz0iNTAuODI2NTA0NiA3Mi41OTY5NDEzIDUxLjgzMzI1MDUgNzAuODY4ODAyOCA0OC4zNzY5NzM1IDY4Ljg1NTMxMSA0Ny4zNzAyMjc2IDcwLjU4MzQ0OTUgMjguMjQyMDU1NiAxMDMuNDE4MDgxIDI3LjIzNTMwOTcgMTA1LjE0NjIyIDMwLjY5MTU4NjggMTA3LjE1OTcxMiAzMS42OTgzMzI2IDEwNS40MzE1NzMiLz48cG9seWdvbiBwb2ludHM9IjU4IDg3LjAxNjc2MzUgNTggODkgNjIgODkgNjIgODcuMDE2NzYzNSA2MiA3Mi45ODMyMzY1IDYyIDcxIDU4IDcxIDU4IDcyLjk4MzIzNjUiLz48cG9seWdvbiBwb2ludHM9IjU4IDM1LjA1MTYwNzggNTggMzcgNjIgMzcgNjIgMzUuMDUxNjA3OCA2MiAyMC45NDgzOTIyIDYyIDE5IDU4IDE5IDU4IDIwLjk0ODM5MjIiLz48cG9seWdvbiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNy4wMDAwMDAsIDQxLjAwMDAwMCkgcm90YXRlKC02MC4wMDAwMDApIHRyYW5zbGF0ZSgtMzcuMDAwMDAwLCAtNDEuMDAwMDAwKSAiIHBvaW50cz0iMzUgNDguMDUxNjA3OCAzNSA1MCAzOSA1MCAzOSA0OC4wNTE2MDc4IDM5IDMzLjk0ODM5MjIgMzkgMzIgMzUgMzIgMzUgMzMuOTQ4MzkyMiIvPjxwb2x5Z29uIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgzLjAwMDAwMCwgNDEuMDAwMDAwKSByb3RhdGUoLTMwMC4wMDAwMDApIHRyYW5zbGF0ZSgtODMuMDAwMDAwLCAtNDEuMDAwMDAwKSAiIHBvaW50cz0iODEgNDguMDUxNjA3OCA4MSA1MCA4NSA1MCA4NSA0OC4wNTE2MDc4IDg1IDMzLjk0ODM5MjIgODUgMzIgODEgMzIgODEgMzMuOTQ4MzkyMiIvPjwvZz48L3N2Zz4=&logoColor=white)
